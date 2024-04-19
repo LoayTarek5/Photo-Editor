@@ -46,11 +46,13 @@ Welcome to the README file for our Qt C++ photo editor project! This document pr
    - Add Hue shift to HSV
    - Turn new HSV to RGB
    - Set color to the new RGB
+![Alt Text](C:\Users\002\Git_Hub_Files\Assingment_3\task_1\test.jpg)
 
 2. **Filter 2: Pixelate**
    - Take old Image and Pixelate intensity
    - Make new image of size (Image / Pixelate intensity)
    - Set every pixel of new image with the average of every pixel's RGB with area of (Pixelate intensity)^2
+![Alt Text](C:\Users\002\Git_Hub_Files\Assingment_3\task_1\test1.jpg)
 
 ## Video Demonstration
 For a visual demonstration of the photo editor in action, please watch our video tutorial [here](https://youtu.be/OTbHigu-GZQ).
