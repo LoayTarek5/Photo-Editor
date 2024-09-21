@@ -7,7 +7,6 @@ Welcome to the README file for our Qt C++ photo editor project! This document pr
 ### Prerequisites
 - Qt (Version Qt6 6.7.0)
 - C++ Compiler (Version 6_7_0_MinGW_64_bit)
-- [Any other dependencies]
 
 ### Installation
 1. **Open the Project in Qt Creator:** Launch Qt Creator and open your project by selecting the project file (usually a `.pro` file) from the file browser.
